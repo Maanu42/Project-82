@@ -1,0 +1,7 @@
+body{
+    background-image: url("bg1.jpg");
+}
+#my_Canvas{
+    border: 5px;
+    border-style: dashed;
+}
